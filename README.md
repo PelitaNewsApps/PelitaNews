@@ -6,5 +6,5 @@ Nama Kelompok
 3. Lilis Hartini (311710129)
 4. Siti Salamah (
 5. Mukhrodi (
-6. Dieky Darmawan (
+6. Dieky Darmawan (311610092)
 7. Ferani Pradina (

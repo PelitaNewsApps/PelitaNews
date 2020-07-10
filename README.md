@@ -1,6 +1,5 @@
 # PelitaNews
 Project Kelompok Aplikasi Berita PelitaNews
-Nama Kelompok
 1. Tri Purwanto (311710614)
 2. Arief Muhsin (311710593)
 3. Lilis Hartini (311710129)
